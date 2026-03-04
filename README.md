@@ -19,7 +19,9 @@ These datasets were collected as part of a smart farming research project focuse
 
 ## Usage
 
-You are welcome to use this dataset for research or educational purposes. If you use this data in a publication, please cite the corresponding paper. *(Citation details to be updated later.)*
+You are welcome to use this dataset for research or educational purposes. If you use this data in a publication, please cite the corresponding paper. 
+
+Khoeurn, S., Park, N.H., Jahng, H.K. et al. Reliability assessment of agricultural sensors evaluated through algal coverage in hydroponic tomato production systems. Sci Rep (2026). https://doi.org/10.1038/s41598-026-38555-y
 
 ## Acknowledgment
 
